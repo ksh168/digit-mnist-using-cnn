@@ -1,1 +1,1 @@
-Digit Recognition using Convolution Neural Network
+Handwritten Digit Recognition using Convolution Neural Network
